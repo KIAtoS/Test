@@ -1,0 +1,16 @@
+Notes on current development
+
+Refonte de l'utilisation des modules :
+
+Composants impactés :
+-----------------------
+Mod_Template.xlsm en version 1.3 actuellement sur One Drive a intégrer à la fin des devs
+
+
+
+Algo et modifications :
+
+Récuperer la liste des arguments dans le fichier Excel (déjà fait)
+spliter ce string sur double pipe || dans le fichier TestStepLoader.java
+contrôler que l'on a autant d'argument que d'action
+pour chaque action passer l'argument qui va bien

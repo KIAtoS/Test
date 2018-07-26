@@ -1,0 +1,16 @@
+atos.mae.auto
+atos.mae.auto.action
+atos.mae.auto.excel
+atos.mae.auto.factory
+atos.mae.auto.hpalm
+atos.mae.auto.hpalm.infrastructure
+atos.mae.auto.hpalm.model
+atos.mae.auto.json
+atos.mae.auto.model
+atos.mae.auto.plugins
+atos.mae.auto.plugins.requirement
+atos.mae.auto.utils
+atos.mae.auto.utils.Exceptions
+atos.mae.auto.utils.Exceptions.checked
+atos.mae.auto.utils.enums
+atos.mae.auto.webdriver
