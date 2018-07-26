@@ -1,0 +1,6 @@
+ChromeDriver : 2.29
+IEDriver : 3.3.0
+EdgeDriver : Version: 3.14393 | Edge version supported: 14.14393
+HtmlunitDriver : 2.26
+Geckodriver : 0.15.0
+PhantomJS : 2.1.1

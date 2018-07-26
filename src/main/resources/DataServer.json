@@ -1,0 +1,22 @@
+{
+	"platforms":[
+		{
+			"Environment":"exemple",
+			"host":"localhost",
+			"user":"user1",
+			"password":"password1"
+		},
+		{
+			"Environment":"Serveur2",
+			"host":"localhost",
+			"user":"user2",
+			"password":"password2"
+		},
+		{
+			"Environment":"Qual2",
+			"host":"localhost",
+			"user":"user3",
+			"password":"password3"
+		}
+	]
+}
