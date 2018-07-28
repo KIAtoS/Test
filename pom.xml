@@ -29,6 +29,13 @@
 		<!-- end changed by Princi for 76654 -->  
 		       
 	</repositories>
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>MC0WZYSC-releases</name>
+        <url>http://localhost:8081/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
 	<dependencies>
 		<dependency>
 			<artifactId>aether-connector-wagon</artifactId>
